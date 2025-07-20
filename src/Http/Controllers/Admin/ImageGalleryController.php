@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Event;
 use App\Http\Controllers\Controller;
 use Webkul\ImageGallery\DataGrids\ImageGalleryDataGrid;
 use Webkul\ImageGallery\Repositories\ImageGalleryRepository;
+use Illuminate\Foundation\Validation\ValidatesRequests; 
 
 class ImageGalleryController extends Controller
 {
