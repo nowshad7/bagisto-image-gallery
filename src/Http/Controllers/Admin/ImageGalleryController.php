@@ -11,6 +11,7 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 
 class ImageGalleryController extends Controller
 {
+    use ValidatesRequests;
     /**
      * Create a new controller instance.
      *
