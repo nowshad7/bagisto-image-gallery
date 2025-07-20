@@ -1,7 +1,7 @@
 {
-    "name": "nowshad7/laravel-imagegallery",
+    "name": "nowshad7/bagisto-image-gallery",
     "license": "MIT",
-    "description" : "Image Gallery package",
+    "description": "Image Gallery package",
     "authors": [
         {
             "name": "Bagisto",
